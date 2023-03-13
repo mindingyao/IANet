@@ -30,7 +30,7 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 <p align="center">
     <img src="./img/result.PNG" width="100%"/> <br />
  <em> 
-     Overall architecture of the proposed IANet.
+    Quantitative comparisons with SOTA methods on five public VSOD datasets in term of three evaluation metrics. The best results are highlighted in **bold**.
     </em>
 </p>
 
