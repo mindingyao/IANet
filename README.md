@@ -17,8 +17,8 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 3. Run `python main.py --mode=test`.
 
 ## Result
-1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/15KvCtIZ8BQ3zhdkVVf73wg) (PSW: u76y)
+1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/15KvCtIZ8BQ3zhdkVVf73wg) (PSW: u76y).
 2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
 ## Citation
-Please cite the following paper if you use this repository in your research
+Please cite the following paper if you use this repository in your research.
