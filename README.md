@@ -27,7 +27,12 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/15KvCtIZ8BQ3zhdkVVf73wg) (PSW: u76y).
 2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
-![图片alt](./img/result.PNG "图片title")
+<p align="center">
+    <img src="./img/result.PNG" width="100%"/> <br />
+ <em> 
+     Overall architecture of the proposed IANet.
+    </em>
+</p>
 
 ## Citation
 Please cite the following paper if you use this repository in your research.
