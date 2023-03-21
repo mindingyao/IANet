@@ -15,7 +15,7 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 ## Training
 1. Download the train dataset (containing DAVIS16, DAVSOD and DUTS-TR) from [Baidu Driver](https://pan.baidu.com/s/1F2RrcgJylUMYkWiUAoaL2A) (PSW:wuqv).
 2. Download the pre_trained ResNet34 [backbone](https://download.pytorch.org/models/resnet34-333f7ec4.pth) to your specified folder.
-3. The training of entire model is implemented on a NVIDIA TiTAN X GPUs:
+3. The training of entire model is implemented on a NVIDIA TiTAN X (Pascal) GPU:
 - Run `python main.py --mode=train`
 
 ## Testing
