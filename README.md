@@ -13,7 +13,7 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 **Each dataset corresponds to a txt path file, with each row arranged by img_path, gt_path and flow_path.**
 
 ## Training
-1. Download the train dataset (containing DAVIS16, DAVSOD and DUTS-TR) from [Baidu Driver](https://pan.baidu.com/s/1F2RrcgJylUMYkWiUAoaL2A) (PSW:wuqv).
+1. Download the training dataset (containing DAVIS16, DAVSOD and DUTS-TR) from [Baidu Driver](https://pan.baidu.com/s/1F2RrcgJylUMYkWiUAoaL2A) (PSW:wuqv).
 2. Download the pre_trained ResNet34 [backbone](https://download.pytorch.org/models/resnet34-333f7ec4.pth) to your specified folder.
 3. The training of entire model is implemented on a NVIDIA TITAN X (Pascal) GPU:
 - Run `python main.py --mode=train`
@@ -36,4 +36,12 @@ Official code repository for paper **Local-Global Interaction and Progressive Ag
 </p>
 
 ## Citation
-Please cite the following paper if you use this repository in your research.
+Please cite the following paper if you use this repository in your research:
+```
+@article{min2022ianet,
+  title={Local-Global Interaction and Progressive Aggregation for Video Salient Object Detection},
+  author={Min, Dingyao and Zhang, Chao and Lu, Yukang and Fu, Keren and Zhao, Qijun},
+  booktitle={The International Conference on Neural Information Processing},
+  year={2022}
+}
+```
