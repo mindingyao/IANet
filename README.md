@@ -1,5 +1,5 @@
 # IANet
-Official code repository for paper **Local-Global Interaction and Progressive Aggregation for Video Salient Object Detection** ([ICONIP 2022](https://easychair.org/proceedings/paper_download.cgi?paper=595433;a=29637379;kind=pdf))
+Official code repository for paper **Local-Global Interaction and Progressive Aggregation for Video Salient Object Detection** (ICONIP 2022)
 
 <p align="center">
     <img src="./img/IANet.PNG" width="100%"/> <br />
